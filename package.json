@@ -1,0 +1,25 @@
+{
+  "name": "programming3final",
+  "version": "1.0.0",
+  "description": "As an example of final project Programming 3",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "ananun",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.2.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luizakar2002/Pr3Final-Lesson6.git"
+  },
+  "bugs": {
+    "url": "https://github.com/luizakar2002/Pr3Final-Lesson6/issues"
+  },
+  "homepage": "https://github.com/luizakar2002/Pr3Final-Lesson6#readme"
+}
